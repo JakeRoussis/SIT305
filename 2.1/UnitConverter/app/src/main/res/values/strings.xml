@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="unit_entries">
+        <item>Celsius</item>
+        <item>Kilograms</item>
+        <item>Meters</item>
+    </string-array>
+    <string name="measurementButton">Measurement Button</string>
+    <string name="temperatureButton">Temperature Button</string>
+    <string name="weightButton">Weight Button</string>
+    <string name="inputValue">Enter Value</string>
+    <string name="output1">First output display box</string>
+    <string name="output2">Second output display box</string>
+    <string name="output3">Third output display box</string>
+</resources>
