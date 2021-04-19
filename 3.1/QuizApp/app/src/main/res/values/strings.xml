@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="mainTitle">SIT305 QUIZ APP</string>
+    <string name="nameInput">Enter your name:</string>
+    <string name="btnStartQuiz">START</string>
+    <string name="btnNext">Submit</string>
+    <string name="btnNewQuiz">New Quiz</string>
+    <string name="btnFinish">Finish</string>
+    <string name="finalScore">YOUR SCORE:</string>
+
+    <array name="options">
+        <item>@array/options1</item>
+        <item>@array/options2</item>
+        <item>@array/options3</item>
+        <item>@array/options4</item>
+        <item>@array/options5</item>
+    </array>
+
+    <string-array name="questionTitle">
+        <item>Android Versioning</item>
+        <item>Meaning of API</item>
+        <item>Languages and Projects</item>
+        <item>Intents</item>
+        <item>Data tTypes</item>
+    </string-array>
+
+    <string-array name="questionDescription">
+        <item>Up until Android 10 each version of Android was named after what?</item>
+        <item>What does API stand for?</item>
+        <item>Which of these languages is NOT an option when making a new project by Android Studio?</item>
+        <item>What is the most common use of an intent?</item>
+        <item>Which of these is not a real data type?</item>
+    </string-array>
+
+    <string-array name="options1">
+        <item>Fruits</item>
+        <item>Desserts</item>
+        <item>Planets</item>
+    </string-array>
+    <string-array name="options2">
+        <item>Applying Practical Interfaces</item>
+        <item>Application Programming Internet</item>
+        <item>Application Programming Interface</item>
+    </string-array>
+    <string-array name="options3">
+        <item>Python</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+    </string-array>
+    <string-array name="options4">
+        <item>Code Abstraction</item>
+        <item>Launching another activity</item>
+        <item>Accepting user input</item>
+    </string-array>
+    <string-array name="options5">
+        <item>Booleans</item>
+        <item>Stringbools</item>
+        <item>Integers</item>
+    </string-array>
+</resources>
