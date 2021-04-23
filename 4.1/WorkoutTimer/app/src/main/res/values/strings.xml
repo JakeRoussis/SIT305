@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkoutTimer</string>
+    <string name="txtWorkout">Enter your workout type:</string>
+</resources>
