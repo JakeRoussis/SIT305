@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="eurekaTower">Eureka Tower is a 297.3 m skyscraper located in the Southbank precinct of Melbourne, Victoria, Australia. Construction began in August 2002 and the exterior was completed on 1 June 2006</string>
+    <string name="empireStateBuilding">The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan in New York City, United States. It was designed by Shreve, Lamb and Harmon and built from 1930 to 1931</string>
+    <string name="goldenGateBridge">The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait connecting San Francisco Bay and the Pacific Ocean.</string>
+    <string name="greatWallChina">The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe.</string>
+    <string name="p2g">Places to Go</string>
+    <string name="td">Top Destinations</string>
+</resources>
