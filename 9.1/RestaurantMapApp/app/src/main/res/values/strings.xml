@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RestaurantMapApp</string>
+    <string name="add">Add a New Place</string>
+    <string name="show_all">Show All on Map</string>
+    <string name="get_loc">Get Current Location</string>
+    <string name="show">Show on Map</string>
+    <string name="Save">Save</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="PLACES_API_KEY">AIzaSyDHAsgbcSv230p9NhYlHA_KwSCzE1oxEQ0</string>
+    <string name="title_activity_show_map">Map</string>
+</resources>
